@@ -1,6 +1,6 @@
 # anybar-fish
 
-> A fish-shell function to quickly set the style of Anybar
+> A [fish shell](http://fishshell.com/) function to quickly set the style of [Anybar](https://github.com/tonsky/AnyBar)
 
 ![Anybar menubar dots](https://cloud.githubusercontent.com/assets/170270/26110935/ea2a0220-3a7d-11e7-9443-d55f5260e3fb.png)
 
