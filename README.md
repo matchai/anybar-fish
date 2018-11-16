@@ -7,8 +7,10 @@
 ## Usage
 
 ```fish
-anybar <status> # default port: 1738
-anybar <status> <port>
+anybar <style> [port]
+
+$ anybar red            # Changes Anybar to red on port 1738 (by default)
+$ anybar purple 1337    # Changes Anybar to purple on port 1337 
 ```
 
 ## Install
