@@ -18,7 +18,7 @@ $ anybar purple 1337    # Changes Anybar to purple on port 1337
 ### [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher add matchai/anybar-fish
+fisher install matchai/anybar-fish
 ```
 
 ### [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish)
