@@ -1,4 +1,4 @@
-set -l styles white red orange yellow green cyan blue purple black question exclamation
+set -l styles white red orange yellow green cyan blue purple black question exclamation filled hollow
 
 for style in $styles
   echo "entry: $style"
